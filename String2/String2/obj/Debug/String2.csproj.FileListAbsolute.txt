@@ -1,0 +1,8 @@
+C:\Users\Genru515-56\Desktop\Курсовая работа\String2\String2\bin\Debug\String2.exe.config
+C:\Users\Genru515-56\Desktop\Курсовая работа\String2\String2\bin\Debug\String2.exe
+C:\Users\Genru515-56\Desktop\Курсовая работа\String2\String2\bin\Debug\String2.pdb
+C:\Users\Genru515-56\Desktop\Курсовая работа\String2\String2\obj\Debug\String2.csproj.AssemblyReference.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\String2\String2\obj\Debug\String2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\String2\String2\obj\Debug\String2.csproj.CoreCompileInputs.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\String2\String2\obj\Debug\String2.exe
+C:\Users\Genru515-56\Desktop\Курсовая работа\String2\String2\obj\Debug\String2.pdb
